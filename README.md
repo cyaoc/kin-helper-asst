@@ -42,7 +42,7 @@ url拼接规则为BASE_URL + BASE_ZH + 文件相对BASE_CONTENT的路径。
 npm run transform
 ```
 
-项目将对所有文章进行分割总结，分割大小为200左右的chunk（可自定义大小，详见CHUNK_SIZE），生成kintone.json（分割以全角句号为准，要分隔英文信息时，请将transform.js中的全家句号替换为半角句号）
+项目将对所有文章进行分割总结，分割大小为200左右的chunk（可自定义大小，详见CHUNK_SIZE），生成kintone.json（分割以全角句号为准，要分隔英文信息时，请将transform.js中的全角句号替换为半角句号）
 
 运行
 
