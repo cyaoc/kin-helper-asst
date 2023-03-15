@@ -7,7 +7,7 @@ kintone 帮助手册助手，利用ChatGPT接口回答用户检索的问题。
 你需要安装Nodejs18以上的版本到本地。
 
 ```bash
-git clone https://github.com/cyaoc/kin-helper-asst
+git clone https://github.com/cyaoc/kin-helper-asst.git
 ```
 
 进入项目根目录后运行
