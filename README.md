@@ -47,7 +47,7 @@ npm run transform
 运行
 
 ```bash
-npm run transform
+npm run embed
 ```
 
 会将kintone.json中的内容进行向量转换，并上传到supabase。
