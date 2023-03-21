@@ -1,5 +1,4 @@
 import { Answer } from "@/components/Answer/Answer";
-import { Footer } from "@/components/Footer";
 import { Navbar } from "@/components/Navbar";
 import { IconArrowRight, IconSearch, IconBrandHipchat, IconExternalLink } from "@tabler/icons-react";
 import Head from "next/head";
